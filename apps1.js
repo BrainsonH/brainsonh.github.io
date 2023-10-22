@@ -1,5 +1,5 @@
 const output = document.querySelector('.output');
-const url =  'https://docs.google.com/spreadsheets/d/'
+const url =  'https://docs.google.com/spreadsheets/d/';
 const ssid = '15sm98g9PVAinEJagGu_0MyXGlXYszUNB1zRH-e6z9zc';
 const query1 = '/gviz/tq?';
 
